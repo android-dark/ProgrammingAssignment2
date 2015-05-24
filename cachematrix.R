@@ -1,5 +1,5 @@
-## Put comments here that give an overall description of what your
-## functions do
+## makeCacheMatrix() creates a "special" matrix object and returns a list of the methods of the object
+## cacheSolve() take a matrix object, sets its inverse value, and returns that inverse matrix
 
 ## Creates a "special" matrix object that contains a matrix and the inverse of that matrix, with get
 ## and set methods for both values.
